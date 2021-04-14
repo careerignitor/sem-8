@@ -71,5 +71,25 @@ ch-14
 
 
 
+------------------------------------------------------------------------------paper---------------------------------------------------------------------------------
+
+Cryptarithmetic Problem-> easy engineering
+Inference Rules in Propositional Calculus->easy engineering
+8 puzzle using state space->easy engineering
+8 puzle using A*-> networking pro
+perceptron algorithm-> thinkX , muo sigma classes
+iterative deepening.-> study poit
+hill climb-> watch 3 videos of 5 min engineering
+Simulated Annealing search method-> easy engineering
+issue in knowledge represantion->https://medium.com/@dpthegrey/issues-in-knowledge-representation-4822fcb22e65
+fuzzy and crysp logic->
+wrong with the following arguments->https://cegtuprogramiz.blogspot.com/2019/05/what-is-wrong-with-following-arguments.html?m=0
+sum->  https://people.engr.tamu.edu/choe/choe/courses/07fall/420/lectures/slide05.pdf
+
+
+
+
+
+
 
 
