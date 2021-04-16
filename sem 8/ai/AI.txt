@@ -1,0 +1,95 @@
+ch 5
+
+https://www.geeksforgeeks.org/difference-between-procedural-and-declarative-knowledge/
+http://www.doc.ic.ac.uk/~cclw05/topics1/index.html#:~:text=Artificial%20Intelligence%20(AI)%20is%20the,is%20useful%20for%20knowledge%20representation.
+https://www.javatpoint.com/difference-between-backward-chaining-and-forward-chaining
+
+ch-6
+
+https://www.javatpoint.com/reasoning-in-artificial-intelligence
+logic -> https://youtu.be/6Javfp_-VDc
+
+ch-7
+
+https://www.javatpoint.com/probabilistic-reasoning-in-artifical-intelligence
+https://www.javatpoint.com/bayes-theorem-in-artifical-intelligence
+https://www.brainkart.com/article/Certainty-Factors-in-Rule-Based-Systems_8589/
+https://deepai.org/machine-learning-glossary-and-terms/rule-based-system
+https://www.javatpoint.com/bayesian-belief-network-in-artificial-intelligence
+https://www.geeksforgeeks.org/ml-dempster-shafer-theory/
+https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_fuzzy_logic_systems.htm
+
+ch-8 & ch-9
+
+https://www.slideshare.net/ameykerkar/weak-slot-and-filler-structure#:~:text=Slot%20and%20filler%20structures%20Attribute,the%20specific%20knowledge%20the%20structure
+
+https://www.slideshare.net/ravislides99/strong-slot-and-filler
+
+https://users.cs.cf.ac.uk/Dave.Marshall/AI2/node71.html#SECTION00093000000000000000
+
+
+ch-10 
+
+http://javatpoint.com/mini-max-algorithm-in-ai#:~:text=Mini-Max%20algorithm%20uses%20recursion,and%20various%20tow-players%20game.&text=The%20minimax%20algorithm%20proceeds%20all,the%20tree%20as%20the%20recursion.
+https://www.javatpoint.com/ai-alpha-beta-pruning
+https://www.sciencedirect.com/science/article/abs/pii/S0927025618306670#:~:text=In%20this%20paper%2C%20artificial%20Intelligence,instead%20of%20the%20human%20decision.&text=In%20this%20program%2C%20the%20decision,by%20a%20reinforcement%20learning%20algorithm.
+https://www.engineeringenotes.com/artificial-intelligence-2/game-playing-artificial-intelligence-2/iterative-deepening-method-of-game-searching-artificial-intelligence/34778#:~:text=Iterative%20Deepening%20Method%20of%20Game%20Searching%20%7C%20Artificial%20Intelligence,-Article%20shared%20by&text=Rather%20than%20searching%20the%20game,each%20of%20the%20possible%20moves.
+https://youtu.be/Xi0uaEwCzNs
+https://www.tutorialride.com/artificial-intelligence/planning-in-ai.htm
+
+(watch on youtube also)
+https://www.engineeringenotes.com/artificial-intelligence-2/problem-solving/planning-for-solving-problems-5-steps-artificial-intelligence/35236
+
+Goal Stack Planning-> 5 min engineering
+https://youtu.be/W8RUV6WlWAE
+
+ch-11
+
+https://www.tutorialspoint.com/tensorflow/tensorflow_understanding_artificial_intelligence.htm
+https://youtu.be/AgyCSmDVk5s
+
+ch-12
+
+https://www.javatpoint.com/nlp
+https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_natural_language_processing.htm
+https://pranay-dave9.medium.com/ai-powered-spell-check-and-grammar-check-in-business-applications-6dc316224ab0
+
+ch-13
+
+https://www.javatpoint.com/artificial-neural-network-hopfield-network#:~:text=In%201982%2C%20John%20Hopfield%20introduced,memory%20like%20the%20human%20brain.&text=A%20Hopfield%20network%20is%20a,is%20associated%20with%20other%20neurons.
+https://youtu.be/ssM6SsdJj8M
+
+https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_neural_networks.htm
+https://www.tutorialspoint.com/artificial_neural_network/artificial_neural_network_applications.htm
+https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/
+https://towardsdatascience.com/distributed-vector-representation-simplified-55bd2965333e
+https://towardsdatascience.com/symbolic-vs-connectionist-a-i-8cf6b656927
+
+
+ch-14
+
+
+
+
+------------------------------------------------------------------------------paper---------------------------------------------------------------------------------
+
+Cryptarithmetic Problem-> easy engineering
+Inference Rules in Propositional Calculus->easy engineering
+8 puzzle using state space->easy engineering
+8 puzle using A*-> networking pro
+perceptron algorithm-> thinkX , muo sigma classes
+iterative deepening.-> study poit
+hill climb-> watch 3 videos of 5 min engineering
+Simulated Annealing search method-> easy engineering
+issue in knowledge represantion->https://medium.com/@dpthegrey/issues-in-knowledge-representation-4822fcb22e65
+fuzzy and crysp logic->
+wrong with the following arguments->https://cegtuprogramiz.blogspot.com/2019/05/what-is-wrong-with-following-arguments.html?m=0
+sum->  https://people.engr.tamu.edu/choe/choe/courses/07fall/420/lectures/slide05.pdf
+
+
+
+
+
+
+
+

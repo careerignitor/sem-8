@@ -1,0 +1,103 @@
+What are the differences between C and Python?
+Write a python program to search a specific value from a given list of values using binary search method.
+Write a python program to arrange the characters of a given string 'welcome' in an alphabetical order using insertion sort algorithm.
+Explain the types of methods available in python with a suitable example of each method.
+Which are the different ways of creation of threads? Explain each with an example.
+What are the differences between abstract class and interface? Write a python 
+program in which Maruti and Santro sub classes implement the abstract methods of the super class Car.
+What are the differences between abstract class and interface? Write a python program in which Maruti and Santro sub classes implement the abstract methods of the super class Car.
+Write a Python program which will throw exception if the value entered by user is less than zero
+Write a Python program to find reverse of given number using user defined function.
+
+Write a Python program which will return the sum of the numbers in the array, returning 0 for an empty array. Except the number 13 is very unlucky, so it 
+does not count and number that come immediately after 13 also do not count.
+Example : [1, 2, 3, 4] = 10
+[1, 2, 3, 4, 13] = 10
+[13, 1, 2, 3, 13] = 5
+
+Write a Python program which takes a list and returns a list with the elements "shifted left by one position" so [1, 2, 3] yields [2, 3, 1].
+Example: [1, 2, 3] → [2, 3, 1]
+[11, 12, 13] → [12, 13, 11]
+
+Create a Python program to read a text file and do following:
+1. Print no. of lines
+2. Print no. of unique words
+3. Store each word with its occurrence in dictionary
+
+Write a Python program to implement the concept of echo server.
+
+Is String a mutable data type? Also explain the string operations length,
+indexing and slicing in detail with an appropriate example.
+
+What do you mean by immutable data type? Explain immutable data types
+with their operations and functions.
+
+What are bugs? Write about different types of bugs. What steps will you 
+perform to identify and remove the bugs in a python script?
+
+Write a python program that creates a class Student having attributes 
+{Enrollement_No, Name} and methods set_data that takes the values from the 
+user and assigns them to attributes of the class and an operator overloading 
+function that converts Student object to string. Also create an Class variable
+student_count that will maintain the count of Student Instances and a method 
+that will display this count.
+
+Write a python program that implement Caesar encryption and decryption 
+algorithm.
+
+Write a Python program to check whether the given no is Armstrong or not
+using user defined function.
+
+Write a Python program to implement the concept of inheritance.
+
+Write a Python program to overload + operator. 
+
+What is lambda function in Python? Explain with an example
+
+Write a Python program to count words, characters and spaces 
+from text file
+
+Give Difference between abstract class and interface in Python 
+using an example
+
+Develop chat application using Multithreading in Python
+
+Write a python program to implement isPalindrome() function to 
+check given string is palindrome or no.
+
+Write a python program to implement linear search and binary 
+search.
+Write a python program to implement merge sort.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Write a Python program to match a string that contains only 
+upper and lowercase letters, numbers, and underscores using 
+Regular Expression
+
+Write a Python program to find the substrings within a string 
+using Regular Expression
+
+Explain the creation of different types of containers available in Tkinter? 
+Elaborate the explanation with suitable example.
+
+Create following regular polygons (regular means all sides the same lengths, all 
+angles the same) using for loop in turtle
+ An equilateral triangle
+ A square
+ A hexagon 
+ An octagon
+
+Explain the major steps used to create widgets. Write a python program to 
+display a label upon clicking a push button.
+
+Write a Python GUI program to create three push buttons using Tkinter. The background color of frame should be different when different buttons are clicked.
+
+Draw Circle and Triangle shapes using Turtle and fill them with 
+red color
+
+
+Write a python GUI program to implement calculator using 
+Tkinter library.
+
+
